@@ -4,6 +4,6 @@ import Stopwatch from "@/app/Stopwatch";
 
 export default function Home() {
   return (
-    <div><Stopwatch></Stopwatch><button></button></div>
+    <div><Stopwatch></Stopwatch></div>
   );
 }
