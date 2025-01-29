@@ -15,7 +15,7 @@ const Stopwatch = () => {
                                         <button 
                                         onClick={startHandler}
                                         style={{height: '100px', width: '400px', color:'white', zIndex: 1}}></button>
-                                        <p>Click Above Me!</p>
+                                        <p>Click above me!</p>
                                         </div>)
 }
 
